@@ -1,3 +1,4 @@
+Integrantes: Everson Bendedetti e Eduardo Coltro
 Jogo 2D com 2 fazes de jogatina criado utilizando movimento, pulo, inimigos e armadilhas para criar uma experiência desafiadora e envolvente. 
 
 # Como jogar:

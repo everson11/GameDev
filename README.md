@@ -31,5 +31,7 @@ Este script controla o comportamento de uma plataforma armadilha quando ativado,
 # Observações
 
 Assets utilizados da Unity Asset Store
+
 Jogo totalmente inspirado na serie de Jogos do canal Crie Seus Jogos.
+
 https://www.youtube.com/playlist?list=PLW-9djkTMdfVNJD9aEnoOzkrU8dUoD7j4

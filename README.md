@@ -28,4 +28,8 @@ Armadilha:
 
 Este script controla o comportamento de uma plataforma armadilha quando ativado, ele reproduz uma animação de parada e, após um certo período de tempo, causa uma explosão e destrói a plataforma.
 
-Obs: Algumas funcionalidades não estão 100%. 
+# Observações
+
+Assets utilizados da Unity Asset Store
+Jogo totalmente inspirado na serie de Jogos do canal Crie Seus Jogos.
+https://www.youtube.com/playlist?list=PLW-9djkTMdfVNJD9aEnoOzkrU8dUoD7j4
